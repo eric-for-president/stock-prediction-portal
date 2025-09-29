@@ -11,7 +11,7 @@ const Main = () => {
                 <div className='p-5 text-center bg-light-dark'>
                     <h1 className='text-light'>Stock Prediction Portal</h1>
                     <p className='text-light lead'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi adipisci odit reprehenderit blanditiis aspernatur, alias rerum necessitatibus veniam mollitia aliquam placeat facilis? Neque dolore, sapiente odio beatae dignissimos nobis aspernatur!</p>
-                    <Button text='Login' class="btn-outline-info" url="/login" />
+                    <Button text='Explore Now' class="btn-outline-info" url="/dashboard" />
 
                 </div>
             </div>
