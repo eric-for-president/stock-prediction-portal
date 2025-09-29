@@ -11,4 +11,8 @@ body{
 }
 .container{
     flex: 1;
-} 
+}
+.logo{
+    height: 500px;
+    width: 100px;
+}
