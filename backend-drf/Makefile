@@ -73,7 +73,7 @@ run-prod:
 shell:
 	$(MANAGE) shell
 
-createsuperuser:
+superuser:
 	$(MANAGE) createsuperuser
 
 test:
