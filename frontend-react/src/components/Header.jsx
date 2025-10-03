@@ -1,7 +1,7 @@
 import React,{useContext} from 'react'
 import Button from './Button'
 import {Link,useNavigate} from 'react-router-dom'
-import logo from '../assets/images/logo.png'
+import logo from '../assets/images/car.png'
 import {AuthContext} from '../AuthProvider'
 const Header = () => {
     const {isLoggedIn, setIsLoggedIn} = useContext(AuthContext)
